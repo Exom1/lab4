@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-}
+}nuchetanapisal
 endl;
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
