@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-}
+}nuchetanapisal
 endl;
 
 укзшщпгощшукопукпшщуокышщпоуыкшщоп
